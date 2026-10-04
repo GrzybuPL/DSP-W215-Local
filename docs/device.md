@@ -19,3 +19,4 @@ Dokładny adres LAN i unikalny MAC zostały pominięte z publicznej dokumentacji
 - metoda uwierzytelnienia HNAP i jej ograniczenia,
 - zachowanie po przejściu gniazdka do domowej sieci Wi-Fi.
 Nie zapisywać tu kodów parowania, haseł ani sekretów.
+Publiczna kopia repozytorium zawiera podsumowanie odpowiedzi; surowy XML nie został jeszcze opublikowany.
